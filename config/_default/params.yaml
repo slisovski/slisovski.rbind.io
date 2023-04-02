@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: forest
   theme_night: minimal
-  font: minimal
-  font_size: L
+  font: Native
+  font_size: m
 
 # SEO
 
@@ -33,6 +33,7 @@ header:
   navbar:
     enable: true
     align: r
+    # Display your site title or `assets/media/logo*` image in the nav bar?
     show_logo: true
     show_language: false
     show_day_night: false
