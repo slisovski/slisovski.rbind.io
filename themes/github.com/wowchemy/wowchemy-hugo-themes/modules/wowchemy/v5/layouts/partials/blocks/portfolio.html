@@ -3,10 +3,10 @@
 {{/* License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md */}}
 
 {{/* Initialise */}}
-{{ $page := .wcPage }}
-{{ $block := .wcBlock }}
+{{ $page    := .wcPage }}
+{{ $block   := .wcBlock }}
 {{ $columns := $block.design.columns | default "1" }}
-{{ $view := $block.design.view | default "masonry" }}
+{{ $view    := $block.design.view | default "masonry" }}
 
 {{/* Require Isotope */}}
 {{ $page.Page.Store.Set "has_isotope" true }}

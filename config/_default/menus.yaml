@@ -10,12 +10,9 @@ main:
   - name: People
     url: '#people'
     weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
   - name: Publications
-    url: '#featured'
-    weight: 50
-  - name: Tutorials
-    url: '#tutorials'
-    weight: 80
+    url: '#publications'
+    weight: 70
+  - name: Posts
+    url: '#posts'
+    weight: 60
