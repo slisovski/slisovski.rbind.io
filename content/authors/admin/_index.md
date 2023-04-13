@@ -23,6 +23,8 @@ organizations:
 - name: Alfred Wegener Institute
   url: https://www.awi.de
 role: Ecologist
+user_groups:
+  - Principal Investigator
 social:
 - icon: envelope
   icon_pack: fas

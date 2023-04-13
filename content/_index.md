@@ -7,10 +7,18 @@ sections:
     text: null
     username: admin
   id: about
-- block: group
+- block: people
   content:
-    text: null
-    username: admin
+    title: Group members
+    user_groups: 
+        - Students
+    sort_by: last_name
+    sort_ascending: true
+  design:
+    show_social: false
+    show_interests: true
+    show_role: true
+    show_organizations: true
   id: people
 - block: portfolio
   content:
@@ -22,10 +30,9 @@ sections:
   id: posts
 - block: collection
   content:
-    title: Recent publications
+    title: Publication highlights
     text: |-
         >See all publications at [GoogleScholar](https://scholar.google.com/citations?user=3y8AwdsAAAAJ&hl=en&oi=ao) and [ORCID](https://orcid.org/0000-0002-6399-0035).<br>
-        
     filters:
       folders:
         - publication
