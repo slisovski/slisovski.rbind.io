@@ -50,9 +50,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ulysse-reverre-lamotte-978290168/
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -69,4 +66,4 @@ user_groups:
   - Students
 ---
 
-Short project description. In my Master Thesis, we developed a behavioral optimization model within a stochastic dynamic programming framework to test the hypothesis that climate warming and habitat alterations results in temporal and spatial changes of geese migrating from wintering sites in Europe to their breeding sites at higher latitudes. We investigate past, present and future scenarios using temperature, vegetation growth, and land cover products from the last decades as well as various future projections of these environmental drivers of migration. From the model output, we compare the magnitude of spatiotemporal changes for different wintering and breeding populations and quantify the need of different geese species to adapt to the changing environments. Finally, we will attempt to discuss how the predicted changes affect ecosystem services as well as management and conservation plans of European geese populations and their habitats.
+In my Master Thesis, we developed a behavioral optimization model within a stochastic dynamic programming framework to test the hypothesis that climate warming and habitat alterations results in temporal and spatial changes of geese migrating from wintering sites in Europe to their breeding sites at higher latitudes. We investigate past, present and future scenarios using temperature, vegetation growth, and land cover products from the last decades as well as various future projections of these environmental drivers of migration. From the model output, we compare the magnitude of spatiotemporal changes for different wintering and breeding populations and quantify the need of different geese species to adapt to the changing environments. Finally, we will attempt to discuss how the predicted changes affect ecosystem services as well as management and conservation plans of European geese populations and their habitats.
