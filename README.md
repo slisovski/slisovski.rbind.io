@@ -57,7 +57,7 @@ To add yourself to the homepage, you can copy one of the group member folders in
 
 ## Update the homepage
 
-In the **Git** panel you can now commit the changes (please use an informative Commit message), and pull to the `master` branche of the repository. The homepage will be updated automatically (after a couple of minutes).
+In the **Git** panel you can now commit the changes (please use an informative Commit message), and push to the `master` branche of the repository. The homepage will be updated automatically (after a couple of minutes).
 
 Note: You need to setup a token to be able to pull and push to the GitHub repository.
 The R package `gitcreds` can help to setup and register the token.
